@@ -348,6 +348,6 @@ transition: 0.3s;
     display: block;
     padding: 20px 0;
     margin: auto;
-    background-color: red;
+    /* background-color: red; */
   }
 }
